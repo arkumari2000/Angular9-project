@@ -1,6 +1,12 @@
 # AngularBootstrap
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3
+
+## Requirements
+
+nvm package >= 14.5.0
+node==14.5.0
+npm==6.14.5
 
 ## Development server
 
@@ -22,6 +28,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Technology Stack
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+The Project is designed with boostrap and Angular 9
